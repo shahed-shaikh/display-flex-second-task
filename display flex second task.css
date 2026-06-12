@@ -1,0 +1,337 @@
+body{
+	margin:0%;
+	padding:0%;
+}
+nav{
+	height:105px;
+	background-color:#0D6EFD;
+	display:flex;
+	color:white;
+	position:fixed;
+	width:100%;
+	top:0;
+}
+.navimg{
+	height:50px;
+	width:50px;
+}
+.VersatileTechnology{
+	display:flex;
+	width:310px;
+	align-items:center;
+	font-size:22px;
+	justify-content:space-evenly;
+}
+.navAbout{
+	display:flex;
+	font-size:18px;
+	font-weight:bold;
+	align-items:center;
+	justify-content:space-between;
+	width:59.6%;
+	justify-content:space-between;
+	margin-left:17%;
+}
+header{
+	height:745px;
+	background-color:#0D6EFD;
+	display:flex;
+	color:white;
+	width:100%;
+}
+.headerVersatile{
+	margin:15% 0% 0% 11%;
+	width:34.5%;
+	height:400px;
+}
+.Technologyheader{
+	font-size:23px;
+	letter-spacing:1px;
+	line-height:1.4;
+}
+.Full-Stack-Developer{
+	height:500px;
+	width:700px;
+	margin:10% 0% 0% 4%;
+}
+main{
+	
+}
+.maindiv{
+	height:725px;
+	width:81.8%;
+	margin-left:9.2%;
+	text-align:center;
+}
+.OurStudents{
+	height:32px;
+	width:125px;
+	border-radius:50px;
+	font-size:15px;
+	border:2px solid #DEE2E6;
+	color:#0D6EFD;
+}
+.job{
+	width:100%;
+	margin-top:5%;
+}
+.maindivimg{
+	height:610px;
+	width:100%;
+	display:flex;
+	justify-content:space-between;
+}
+.Saifuddin{
+	height:510px;
+	width:32.2%;
+	box-shadow:-5px 5px 3px #E3E3E3;
+}
+.firstimage{
+	height:335px;
+	width:100%;
+}
+.hired{
+	height:57px;
+	display:flex;
+	width:100%;
+	justify-content:center;
+	border-bottom:1px solid #ADADAD;
+}
+.hireds{
+	padding:1.2%;
+	width:50px;
+	border-radius:6px;
+	background-color:#53A57F;
+	font-weight:bold;
+	margin-left:14px;
+}
+.bold{
+	font-size:22px;
+	margin-top:4%;
+}
+.company{
+	height:70px;
+	margin-top:5%;
+	width:86%;
+	font-size:18px;
+}
+.saiffuddintext{
+	margin-right:14%;
+}
+.threecard{
+	height:510px;
+	width:100%;
+	background-color:#0D6EFD;
+	color:white;
+}
+.firstcard{
+	width:81.8%;
+	height:340px;
+	margin-left:9.2%;
+	margin-top:6%;
+	display:inline-block;
+}
+.companies{
+	text-align:center;
+}
+.companiesborder{
+	background-color:#0D6EFD;
+	width:100px;
+	height:30px;
+	border-radius:50px;
+	color:white;
+	border:1px solid white;
+}
+.firstcarddiv{
+	height:196px;
+	width:30.6%;
+	border-radius:10px;
+}
+.imgsize{
+	height:196px;
+	width:100%;
+	border-radius:10px;
+}
+.flex{
+	display:flex; 
+	width:100%;
+	justify-content:space-between;
+}
+.shadow{
+	box-shadow:2px 2px 2px #E9E9E9;
+	border-bottom:13px solid #F9F9F9;
+}
+.DeveloperStudents{
+	width:32%;
+	height:500px;
+	background-color:white;
+	border:1px solid #E7E8E9;
+	box-shadow:-2px 2px 2px #E7E8E9;
+}
+.mitaliimage{
+	width:100%;
+	height:250px;
+}
+.imgdeveloper{
+	text-align:center;
+	font-size:22px;
+	border-bottom:1.5px solid #C8C9C4;
+	color:black;
+	height:55px;
+	font-weight:bold;
+}
+.span{
+	margin-top:3%;
+	display:inline-block;
+}
+.project{
+	width:86%;
+	margin-left:5%;
+	margin-top:5%;
+	font-size:17px;
+	color:black;
+}
+.Front-End{
+	height:480px;
+	border-radius:5px;
+}
+.fixedd{
+	height:400px;
+}
+.Bountystudents{
+	color:black;
+	margin:12px 0px 0px 15px;
+}
+.MostPopularCourses{
+	height:720px;
+	width:100%;
+	background-color:white;
+	display:flex;
+	justify-content:center;
+}
+.Most{
+	width:85%;
+	margin-top:5%;
+}
+.Cyber{
+	width:32.6%;
+	list-style-type:none;
+	display:flex;
+	justify-content:space-between;
+}
+.buttonfull{
+	height:39px;
+	font-size:16px;
+	border-radius:7px;
+	border:none;
+	background-color:#0D6EFD;
+	color:white;
+}
+.bottomline{
+	border-bottom:1px solid black;
+}
+.langvageimg{
+	margin:4% 0% 0% 4%;
+	height:350px;
+	width:50%;
+}
+.embark{
+	width:44%;
+	margin-left:5%;
+	margin-top:4%;
+	font-size:20px;
+	line-height:1.2;
+}
+.demo{
+	padding:1.6%;
+	width:32%;
+	font-size:18px;
+	border-radius:6px;
+	background-color:#0B5ED7;
+	text-align:center;
+	margin-left:7%;
+	color:white;
+}
+.basiccomputer{
+	background-color:#0D6EFD;
+	height:1600px;
+}
+.Ourhead{
+	margin-top:0%;
+	font-size:19px;
+	text-align:center;
+	margin-top:1.4%;
+}
+.basiccom{
+	height:325px;
+	width:28%;
+	background-color:white;
+	border-radius:10px;
+}
+.allcomputer{
+	height:250px;
+	width:100%;
+	border-top-left-radius:10px;
+	border-top-right-radius:7px;
+}
+.secondbutton{
+	padding:2.2%;
+	width:65%;
+	border-radius:10px;
+	font-size:17px;
+	margin-top:3%;
+	background-color:#0D6EFD;
+	border:none;
+	color:white;
+}
+.flexx{
+	display:flex;
+	justify-content:space-between;
+}
+.Testimonial{
+	height:215px;
+	width:32%;
+	box-shadow:2px 2px 2px #EEEFF0;
+	border:3px solid  #EEEFF0;
+	
+}
+.information{
+	width:87%;
+	text-align:justify;
+	margin-left:5%;
+}
+.widthsa{
+	width:87%;
+	margin-left:5%;
+	text-align:justify;
+	font-size:17.6px;
+}
+.seemorebutton{
+	margin-right:64%;
+	height:45px;
+	width:105px;
+	border-radius:6px;
+	margin-top:5%;
+	background-color:#F8708D;
+	border:none;
+	font-size:16px;
+	color:white;
+}
+.ethical{
+	height:180px;
+	width:80%;
+	background-color:red;
+	margin-left:10%;
+}
+.pngimag{
+	height:70px;
+	width:21%;
+	margin-top:5%;
+}
+.topbottom{
+	margin-top:1%;
+	height:1px;
+}
+.color{
+	background-color:white;
+}
